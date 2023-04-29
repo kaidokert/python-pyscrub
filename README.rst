@@ -38,7 +38,7 @@ Overview
 
 .. end-badges
 
-An example package. Generated with cookiecutter-pylibrary.
+An example packkage. Generated with cookiecutter-pylibrary.
 
 * Free software: Apache Software License 2.0
 
