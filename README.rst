@@ -38,7 +38,7 @@ Overview
 
 .. end-badges
 
-An examplsea package. Generated with cookiecutter-pylibrary.
+An examplsea packkage. Generated with cookiecutter-pylibrary.
 
 * Free software: Apache Software License 2.0
 
